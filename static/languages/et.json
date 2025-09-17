@@ -1,12 +1,12 @@
 {
   "heading": "ELi metsad",
-  "subheading": "Metsaga kaetud maa koguprotsent Euroopa Liidu liikmesriikides. EL keskmine: 39%",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "maast",
+  "subheading": "Metsaga kaetud maa koguosa Euroopa Liidu liikmesriikides. ELi keskmine: 39%",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "maad",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis vastutab kvaliteetse üleeuroopalise statistika ja näitajate avaldamise eest, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

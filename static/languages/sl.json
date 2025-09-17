@@ -1,13 +1,13 @@
 {
   "heading": "Gozdovi EU",
-  "subheading": "Skupni odstotek zemljišč, pokritih z gozdovi, med državami članicami Evropske unije. Povprečje EU: 39 %",
-  "legend1": "Ni podatkov",
-  "tooltip1": "zemlje",
+  "subheading": "Skupni odstotek gozdnatih površin v državah članicah Evropske unije. Povprečje EU: 39 %",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "zemljišča",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavo visokokakovostnih vseevropskih statistik in kazalnikov, ki omogočajo primerjave med državami in regijami.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavljanje visokokakovostnih statističnih podatkov in kazalnikov za celotno Evropo, ki omogočajo primerjave med državami in regijami.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Kliknite za več informacij"
 }

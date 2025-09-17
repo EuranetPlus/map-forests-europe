@@ -1,13 +1,13 @@
 {
   "heading": "Az EU erdői",
-  "subheading": "Az erdővel borított területek teljes százalékaránya az Európai Unió tagállamai között. EU átlag: 39%",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "földből",
+  "subheading": "Az erdővel borított területek teljes százalékos aránya az Európai Unió tagállamaiban. EU átlag: 39%",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "földterület",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely az országok és régiók közötti összehasonlítást lehetővé tevő, Európa-szerte magas színvonalú statisztikák és mutatók közzétételéért felelős.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

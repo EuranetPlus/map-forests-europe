@@ -1,13 +1,13 @@
 {
-  "heading": "Pădurile din UE",
-  "subheading": "Procentajul total de teren acoperit cu păduri în rândul statelor membre ale Uniunii Europene. Media UE: 39%",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "de pamant",
+  "heading": "Pădurile UE",
+  "subheading": "Procentul total de teren acoperit cu păduri în statele membre ale Uniunii Europene. Media UE: 39%",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de teren",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Eurostat este biroul de statistică al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
+  "textNoteDescription": "Nota",
+  "textNote": "Eurostat este oficiul statistic al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

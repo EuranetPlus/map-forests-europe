@@ -1,12 +1,12 @@
 {
   "heading": "Lesy EU",
-  "subheading": "Celkové procento půdy pokryté lesy mezi členskými státy Evropské unie. Průměr EU: 39 %",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "ze země",
+  "subheading": "Celkové procento půdy pokryté lesy v členských státech Evropské unie. Průměr EU: 39 %",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "pozemků",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je statistický úřad Evropské unie odpovědný za zveřejňování vysoce kvalitních celoevropských statistik a ukazatelů, které umožňují srovnání mezi zeměmi a regiony.",
+  "textNote": "Eurostat je statistický úřad Evropské unie, který je zodpovědný za publikování vysoce kvalitních celoevropských statistik a ukazatelů, jež umožňují srovnání mezi zeměmi a regiony.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=cs&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Klikněte pro více informací"

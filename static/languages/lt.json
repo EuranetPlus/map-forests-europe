@@ -1,13 +1,13 @@
 {
   "heading": "ES miškai",
-  "subheading": "Bendras miškais apaugusios žemės procentas tarp Europos Sąjungos valstybių narių. ES vidurkis: 39 proc.",
+  "subheading": "Bendra miškais padengtos žemės dalis Europos Sąjungos valstybėse narėse. ES vidurkis: 39 %.",
   "legend1": "Nėra duomenų",
   "tooltip1": "žemės",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

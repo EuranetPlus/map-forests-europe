@@ -1,13 +1,13 @@
 {
   "heading": "Lasy UE",
-  "subheading": "Całkowity odsetek gruntów pokrytych lasami wśród krajów członkowskich Unii Europejskiej. Średnia UE: 39%",
+  "subheading": "Całkowity odsetek powierzchni gruntów pokrytych lasami w państwach członkowskich Unii Europejskiej. Średnia UE: 39%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "ziemi",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników, które umożliwiają porównania między krajami i regionami.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników obejmujących całą Europę, które umożliwiają porównywanie krajów i regionów.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

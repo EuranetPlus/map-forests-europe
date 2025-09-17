@@ -1,13 +1,13 @@
 {
-  "heading": "Forêts de l'UE",
-  "subheading": "Pourcentage total de terres couvertes de forêts parmi les États membres de l'Union européenne. Moyenne UE : 39 %",
-  "legend1": "Pas de données disponibles",
+  "heading": "Les forêts de l'UE",
+  "subheading": "Pourcentage total de terres boisées parmi les États membres de l'Union européenne. Moyenne de l'UE : 39 %.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "de terre",
-  "textSourceDescription": "La source",
+  "textSourceDescription": "Source",
   "textSource": "Eurostat",
-  "textNoteDescription": "Noter",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, responsable de la publication de statistiques et d'indicateurs européens de haute qualité permettant des comparaisons entre pays et régions.",
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne qui permettent des comparaisons entre les pays et les régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=fr&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

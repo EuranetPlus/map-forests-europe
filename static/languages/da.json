@@ -1,13 +1,13 @@
 {
   "heading": "EU's skove",
-  "subheading": "Samlet andel af jord dækket med skove blandt EU-medlemsstaterne. EU-gennemsnit: 39 %",
-  "legend1": "Ingen tilgængelig data",
+  "subheading": "Samlet procentdel af jord dækket af skov blandt EU-medlemsstaterne. EU-gennemsnit: 39 %",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af jord",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

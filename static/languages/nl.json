@@ -1,13 +1,13 @@
 {
   "heading": "Bossen van de EU",
-  "subheading": "Totaal percentage land bedekt met bossen tussen de lidstaten van de Europese Unie. EU-gemiddelde: 39%",
+  "subheading": "Totaal percentage van het land bedekt met bossen in de lidstaten van de Europese Unie. EU-gemiddelde: 39%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van land",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie, verantwoordelijk voor het publiceren van hoogwaardige Europese statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

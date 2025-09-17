@@ -1,12 +1,12 @@
 {
   "heading": "Florestas da UE",
-  "subheading": "Percentual total de terras cobertas por florestas entre os estados membros da União Européia. Média da UE: 39%",
+  "subheading": "Percentagem total de terras cobertas por florestas entre os estados-membros da União Europeia. Média da UE: 39%.",
   "legend1": "Nenhum dado disponível",
-  "tooltip1": "da Terra",
+  "tooltip1": "de terra",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o escritório de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores europeus de alta qualidade que permitem comparações entre países e regiões.",
+  "textNote": "O Eurostat é o serviço estatístico da União Europeia, responsável por publicar estatísticas e indicadores de alta qualidade em toda a Europa que permitem comparações entre países e regiões.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Clique para mais informações"

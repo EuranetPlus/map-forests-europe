@@ -1,13 +1,13 @@
 {
-  "heading": "Šume EU",
-  "subheading": "Ukupan postotak površine pod šumom među državama članicama Europske unije. EU prosjek: 39%",
+  "heading": "Šume EU-a",
+  "subheading": "Ukupan postotak zemljišta prekrivenog šumama među državama članicama Europske unije. Prosjek EU: 39%",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "zemlje",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih europskih statistika i pokazatelja koji omogućuju usporedbu između zemalja i regija.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
   "textCountryClick": "Kliknite za više informacija"
 }

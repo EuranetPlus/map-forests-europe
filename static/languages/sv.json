@@ -1,13 +1,13 @@
 {
   "heading": "EU:s skogar",
-  "subheading": "Total andel mark täckt med skog bland EU:s medlemsländer. EU-genomsnitt: 39 %",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "av land",
+  "subheading": "Total andel mark täckt av skog bland Europeiska unionens medlemsstater. EU-genomsnitt: 39 %",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av mark",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Eurostat är Europeiska unionens statistikkontor, som ansvarar för att publicera högkvalitativ europeisk statistik och indikatorer som möjliggör jämförelser mellan länder och regioner.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Wälder der EU",
-  "subheading": "Gesamtprozentsatz der bewaldeten Fläche in den Mitgliedsstaaten der Europäischen Union. EU-Durchschnitt: 39 %",
+  "subheading": "Gesamtanteil der Waldfläche in den Mitgliedsstaaten der Europäischen Union. EU-Durchschnitt: 39 %",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "vom Land",
+  "tooltip1": "des Landes",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

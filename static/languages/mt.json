@@ -1,13 +1,13 @@
 {
   "heading": "Foresti tal-UE",
-  "subheading": "Percantage totali ta' art miksija bil-foresti fost l-istati membri tal-Unjoni Ewropea. Medja tal-UE: 39%",
-  "legend1": "Ebda data disponibbli",
+  "subheading": "Perċentwal totali ta' art miksija bil-foresti fost l-istati membri tal-Unjoni Ewropea. Medja tal-UE: 39%",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-art",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "L-Eurostat huwa l-uffiċċju tal-istatistika tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta' statistika u indikaturi ta' kwalità għolja madwar l-Ewropa kollha li jippermettu tqabbil bejn il-pajjiżi u r-reġjuni.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "L-Eurostat huwa l-uffiċċju statistiku tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta’ statistika u indikaturi ta’ kwalità għolja madwar l-Ewropa li jippermettu tqabbil bejn pajjiżi u reġjuni.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

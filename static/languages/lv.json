@@ -1,13 +1,13 @@
 {
   "heading": "ES meži",
-  "subheading": "Kopējā ar mežiem klātās zemes procentuālā daļa starp Eiropas Savienības dalībvalstīm. ES vidēji: 39%",
-  "legend1": "Nav pieejami dati",
+  "subheading": "Kopējais ar mežiem klātās zemes īpatsvars Eiropas Savienības dalībvalstīs. ES vidējais rādītājs: 39 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "zemes",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/FOR_AREA_EFA__custom_672302/bookmark/table?lang=en&bookmarkId=2b089c56-a550-4f87-943e-0989dacf605a",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }
